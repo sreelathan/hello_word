@@ -1,1 +1,2 @@
  black color
+i=10
